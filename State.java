@@ -1,7 +1,7 @@
 package postoffice;
 
 /**
- * Интерфейс состояний
+ * Интерфейс состояний.
  */
 public interface State {
     //запуск процесса 
